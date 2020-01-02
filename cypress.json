@@ -1,0 +1,13 @@
+{
+  "baseUrl": "http://dev.ezinvoice.lu",
+  "chromeWebSecurity": false,
+  "viewportWidth": 1280,
+  "viewportHeight": 1024,
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "overwrite": false,
+    "html": false,
+    "json": true
+  },
+  "watchForFileChanges": false
+}
