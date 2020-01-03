@@ -9,5 +9,6 @@
     "html": false,
     "json": true
   },
-  "watchForFileChanges": false
+  "watchForFileChanges": false,
+  "video": false
 }
